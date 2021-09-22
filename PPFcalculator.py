@@ -7,13 +7,6 @@ root = Tk()
 # program was created for my economics teacher, Mr. Bradshaw
 root.title("Bradshaw's PPF Calculator")
 
-
-'''
-s = ttk.Style()
-s.configure('Danger.TFrame', background='red', borderwidth=5, relief='raised')
-ttk.Frame(root, width=350, height=500, style='Danger.TFrame').grid(row=0,column=0)
-'''
-
 '''Creating the labels and entrys to get data from user''' 
 #---------------------------------------------------------------------------------
 
