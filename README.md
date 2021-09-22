@@ -6,7 +6,7 @@ This program was created for my economics teacher to enable him to easily create
 
 
 Input window:
-
+<img width="734" alt="Screen Shot 2021-09-21 at 9 34 14 PM" src="https://user-images.githubusercontent.com/91094385/134275126-568f1633-1401-4163-8ed6-b754e75984fc.png">
 
 PPF Graph with mutually beneficial trades in red:
 
