@@ -3,3 +3,13 @@ A Python program that takes input to create a price productions frontier graph, 
 
 
 This program was created for my economics teacher to enable him to easily create PPF graphs that showed all the possible mutually beneficial trades using whole numbers. 
+
+
+Input window:
+
+
+PPF Graph with mutually beneficial trades in red:
+
+
+Explanation window:
+
