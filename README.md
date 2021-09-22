@@ -4,6 +4,8 @@ A Python program that takes input to create a price productions frontier graph, 
 
 This program was created for my economics teacher to enable him to easily create PPF graphs that showed all the possible mutually beneficial trades using whole numbers. 
 
+Libraries used are Tkinter and MatPlotLib. To download the code and run it, download PPFcalculator.py
+
 Below are photos of the three windows the program takes you to. It starts with the input window, and upon entering data and clicking enter, it takes you to 
 graphing window, and upon closing the graphing window it explains the comparative and absolute advantage with the last window. You can close this last window and enter new data into boxes to enter again without restarting the program. 
 
