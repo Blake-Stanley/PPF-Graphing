@@ -153,20 +153,20 @@ def enter():
             compAdG2 = c1
             
             Label(newWindow, wraplength=700, text=compAdG2 + " has the comparative advantage in " + g1 +
-                    " because the oppurtunity cost for 1 " + g1 + " is " + str(round(1/g1g2RatioC1, 3)) + " " + g2 +
-                    ", while the oppurtunity cost for " + compAdG1 + " is " + str(round(1/g1g2RatioC2, 3)) + " sugars. However, " + compAdG1 + " has the comparative advantage in " + g2 +
-                    " because the oppurtunity cost for 1 " + g2 + " is " + str(g1g2RatioC2) + " " + g1 +
-                    ", while the oppurtunity cost for " + compAdG2 + " is " + str(g1g2RatioC1) + " " + g1, pad=10, font=("Arial", 25)).grid(row=1, column=0, sticky=NW, padx=5, pady=5)
+                    " because the opportunity cost for 1 " + g1 + " is " + str(round(1/g1g2RatioC1, 3)) + " " + g2 +
+                    ", while the opportunity cost for " + compAdG1 + " is " + str(round(1/g1g2RatioC2, 3)) + " sugars. However, " + compAdG1 + " has the comparative advantage in " + g2 +
+                    " because the opportunity cost for 1 " + g2 + " is " + str(g1g2RatioC2) + " " + g1 +
+                    ", while the opportunity cost for " + compAdG2 + " is " + str(g1g2RatioC1) + " " + g1, pad=10, font=("Arial", 25)).grid(row=1, column=0, sticky=NW, padx=5, pady=5)
           
         else:
             compAdG1 = c1
             compAdG2 = c2
             
             Label(newWindow, wraplength=700, text= compAdG2 + " has the comparative advantage in " + g1 +
-                  " because the oppurtunity cost for 1 " + g1 + " is " + str(round(1/g1g2RatioC2,3)) + " " + g2 +
-                  ", while the oppurtunity cost for " + compAdG1 + " is " + str(round(1/g1g2RatioC1,3)) + " sugars. \n\nHowever, " + compAdG1 + " has the comparative advantage in " + g2 +
-                  " because the oppurtunity cost for 1 " + g2 + " is " + str(g1g2RatioC1) + " " + g1 +
-                  ", while the oppurtunity cost for " + compAdG2 + " is " + str(g1g2RatioC2) + " " + g1, pad=10, font=("Arial", 25)).grid(row=1, column=0, sticky=NW, padx=5, pady=5)
+                  " because the opportunity cost for 1 " + g1 + " is " + str(round(1/g1g2RatioC2,3)) + " " + g2 +
+                  ", while the opportunity cost for " + compAdG1 + " is " + str(round(1/g1g2RatioC1,3)) + " sugars. \n\nHowever, " + compAdG1 + " has the comparative advantage in " + g2 +
+                  " because the opportunity cost for 1 " + g2 + " is " + str(g1g2RatioC1) + " " + g1 +
+                  ", while the opportunity cost for " + compAdG2 + " is " + str(g1g2RatioC2) + " " + g1, pad=10, font=("Arial", 25)).grid(row=1, column=0, sticky=NW, padx=5, pady=5)
      
         '''|----creating graphs----|'''
         
