@@ -24,3 +24,6 @@ graphing window, and upon closing the graphing window it explains the comparativ
 **Explanation window:**
 
 <img width="738" alt="Screen Shot 2021-09-21 at 9 34 57 PM" src="https://user-images.githubusercontent.com/91094385/134275370-8a9d3938-aa1a-4a1d-9de9-6ee0065854e0.png">
+
+### How to Use:
+Click the green code button on the top right, download as a zip file, and run the program within the terminal or some other virtual environment. 
