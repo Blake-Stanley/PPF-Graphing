@@ -4,7 +4,7 @@ A Python program that takes input to create a production possibility frontier gr
 
 This program was created for my economics teacher to enable him to easily create PPF graphs that showed all the possible mutually beneficial trades using whole numbers. 
 
-Libraries used are Tkinter and MatPlotLib. To download the code and run it, download PPFcalculator.py
+Libraries used are Tkinter and MatPlotLib. 
 
 Below are photos of the three windows the program takes you to. It starts with the input window, and upon entering data and clicking enter, it takes you to 
 graphing window, and upon closing the graphing window it explains the comparative and absolute advantage with the last window. You can close this last window and enter new data into boxes to enter again without restarting the program. 
@@ -26,4 +26,4 @@ graphing window, and upon closing the graphing window it explains the comparativ
 <img width="738" alt="Screen Shot 2021-09-21 at 9 34 57 PM" src="https://user-images.githubusercontent.com/91094385/134275370-8a9d3938-aa1a-4a1d-9de9-6ee0065854e0.png">
 
 ### How to Use:
-Click the green code button on the top right, download as a zip file, and run the program. 
+Click the green code button on the top right, download as a zip file, and run the program. Must have Tkinter, Matplotlib, and Python installed on your computer as well. 
